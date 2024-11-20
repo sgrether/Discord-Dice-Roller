@@ -12,3 +12,6 @@ Run with command line arguements to determine which dice rolling rules it should
 "VTM" - Vampire the Masquerade Anniversary Edition  
 "L5R" - Legend of the Five Rings  
 "12" - This is a homebrew game, you can ignore it  
+
+The bot uses "/r" as the identifier  
+An example command would look like this: "/r 1d20 + 5"  

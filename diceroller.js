@@ -18,8 +18,6 @@ client.once("ready", () => {
 
 var game = '';
 if (process.argv[2]) {
-	//console.log('Flag is present');
-	//console.log(process.argv[2]);
 	game = process.argv[2];
 } else {
 	console.log('Choose a game, idiot.');
